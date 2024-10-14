@@ -51,7 +51,7 @@ const App = () => {
             <>
               <Header />
               <Checkout />
-            </>
+            </>  
           }
         />
         <Route
